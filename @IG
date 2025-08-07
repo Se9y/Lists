@@ -117,7 +117,11 @@ Kickapoo = Price: 1.5k $ | offer: non
 [3] -> 4L, Double, Semi
  
 Egpt = Price: 1.2k $ | offer: 150 $
- 
+	
+_Uno = Price: *** $ | offer: 100 $ +
+	
+Tsso = Price: *** $ | offer: 65 $+
+	
 _G35 = Price: 110 $ | offer: 55 $
  
 Rpnp = Price: 95 $ | offer: non
@@ -130,7 +134,7 @@ Umvy = Price: 65 $ | offer: non
  
 Axep = Price: 150 $ | offer: non
  
-Jwot = Price: 180 $ | offer: 40 $
+Jwot = Price: 65 $ | offer: 40 $
  
 Bjkl = Price: 65 $ | offer: 45 $
  
@@ -141,6 +145,8 @@ Otvy = Price: 65 $ | offer: 40 $
 Vlhx = Price: 65 $ | offer: 45 $
  
 Bphu = Price: 65 $ | offer: non
+	
+Bkpr = Price: Non | offer: 25 $
  
 Tim7 = Price: 55 $ | offer: 35 $
 

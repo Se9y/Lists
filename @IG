@@ -1,6 +1,8 @@
 [1] -> Meaning
  
 Litc = Price: 1.5k $ | offer: non
+	
+Ennd = Price: 700 $ | offer: 75 $+
  
 Sinestro = Price: 3.5k $ | offer: 1k $
  
@@ -117,8 +119,6 @@ Kickapoo = Price: 1.5k $ | offer: non
 [3] -> 4L, Double, Semi
 
 Egpt = Price: 1.2k $ | offer: 150 $
-	
-Ennd = Price: 700 $ | offer: 75 $+
 
 _Uno = Price: *** $ | offer: 100 $ +
 
@@ -147,14 +147,12 @@ Sjnd = Price: 65 $ | offer: non
 Otvy = Price: 65 $ | offer: 40 $
  
 Vlhx = Price: 65 $ | offer: 45 $
- 
-Bphu = Price: 65 $ | offer: non
 	
 Bkpr = Price: Non | offer: 25 $
  
-Cjom = Price: 75 $ | offer: 35 $ +
+Cjom = Price: 65 $ | offer: 35 $ +
 	
-Unsy = Price: 75 $ | offer: 35 $ +
+Unsy = Price: 65 $ | offer: 35 $ +
 
 Tim7 = Price: 55 $ | offer: 35 $
 

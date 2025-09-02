@@ -126,7 +126,7 @@ Ennd = Price: null | offer: 1000 $ +
 
 Litc = Price: 1.5k $ | offer: non
 
-Egpt = Price: 1.2k $ | offer: 150 $
+Egpt = Price: 1.2k $ | offer: null
 
 H### = Price: 1.2k $ | offer: non ~ hint? hacker
 
@@ -140,7 +140,7 @@ Xxx5 = Price: null | offer: 200 $ + [Glitch -> ( search, mention = ✅)
 
 Zhrh = Price: 300 $  | offer: non
  
-Bhag = Price: 550 $ | offer: 100 $
+Bhag = Price: 550 $ | offer: 110 $
 
 F### = Price: 250 $ | offer: non ~ hint? engine
 
@@ -160,29 +160,27 @@ Pyph = Price: 65 $ | offer: non
 
 Cwsa = Price: 75 $ | offer: 60 $
  
-Hrde = Price: 75 $ | offer: 30 $
- 
-Ndfc = Price: 75 $ | offer: 35 $ +
+Ndfc = Price: 75 $ | offer: null
 
-Umvy = Price: 65 $ | offer: non
+Umvy = Price: 65 $ | offer: null
  
-Axep = Price: 150 $ | offer: non
+Axep = Price: 150 $ | offer: $ +
  
-Jwot = Price: 65 $ | offer: 40 $
+Jwot = Price: 65 $ | offer: null
  
-Bjkl = Price: 65 $ | offer: 45 $
+Bjkl = Price: 65 $ | offer: null
  
-Sjnd = Price: 65 $ | offer: non
+Sjnd = Price: 65 $ | offer: null
  
-Otvy = Price: 65 $ | offer: 40 $
+Otvy = Price: 65 $ | offer: null
  
-Vlhx = Price: 65 $ | offer: 45 $
+Vlhx = Price: 65 $ | offer: null
 	
 Bkpr = Price: Non | offer: 25 $
  
-Cjom = Price: 65 $ | offer: 35 $ +
+Cjom = Price: 65 $ | offer: null
 	
-Unsy = Price: 65 $ | offer: 35 $ +
+Imqb = Price: 65 $ | offer: null
 
 Tim7 = Price: 55 $ | offer: 35 $
 

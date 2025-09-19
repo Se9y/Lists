@@ -77,9 +77,6 @@ Sylvanus = Price: 1.2k $ | offer: non
 
 P######## = Price: 1.8k $ | offer: non ~ hint? prime - primary
 
-Encyclopedia = Price: null | offer: 150 $ + [Glitch -> ( search, mention = ✅)
-]
-
 ——————————————————
 [2] -> Name, Surname
 
@@ -102,8 +99,6 @@ Kataleya = Price: 1.3k $ | offer: non
 Louann = Price: 350 $ | offer: non
  
 Ruiyuan = Price: 600 $ | offer: non
- 
-Danity = Price: 320 $ | offer: non
  
 Deloise = Price: 500 $ | offer: non
  
@@ -128,14 +123,6 @@ Egpt = Price: 1.2k $ | offer: null
 
 H### = Price: 1.2k $ | offer: non ~ hint? hacker
 
-_Uno = Price: *** $ | offer: 100 $ +
-
-Momm = Price: null | offer: 150 $ [Glitch -> ( search, mention = ✅)
-]
-
-Xxx5 = Price: null | offer: 200 $ + [Glitch -> ( search, mention = ✅)
-]
-
 Zhrh = Price: 300 $  | offer: non
  
 Bhag = Price: 550 $ | offer: 110 $
@@ -144,17 +131,9 @@ F### = Price: 250 $ | offer: non ~ hint? engine
 
 Ebde = Price: 250 $ | offer: 75 $ +
 
-W7w7 = Price: 190 $ | offer:  non
-
-_G35 = Price: 110 $ | offer: 55 $
- 
-__6q = Price 90 $ | offer non 
-
 Rpnp = Price: 95 $ | offer: non
- 
-Pyph = Price: 65 $ | offer: non
 
-6###Price: null | offer: 35 $ + ~ hint? 8l80
+6### = Price: null | offer: 35 $ + ~ hint? 8l80
 
 Cwsa = Price: 75 $ | offer: 60 $
  
@@ -171,8 +150,6 @@ Bjkl = Price: 65 $ | offer: null
 Otvy = Price: 65 $ | offer: null
  
 Vlhx = Price: 65 $ | offer: null
-	
-Bkpr = Price: Non | offer: 25 $
  
 Cjom = Price: 65 $ | offer: null
 	

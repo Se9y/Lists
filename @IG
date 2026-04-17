@@ -1,7 +1,7 @@
 [1] -> Meaning
 
 Enegrico = 6.5k $
-Sinestro = 3.5k $
+Sinestro = LOG
 Criminaloid = 3k $
 Finiking = 2.5k $
 Brillantes = 1.5k $
@@ -18,7 +18,7 @@ Jueces
 [2] -> Name, Surname
 
 Kickapoo = 1.5k $
-Lauvray = 1.2k $
+Lauvray = LOG
 Ruiyuan = 600 $
 Deloise = 500 $
 Nussel = 400 $
@@ -27,7 +27,7 @@ Nussel = 400 $
 
 [3] -> 4L, Triple, Double, Semi
 
-Vwmz = 70 $ | 45 $ +
+Vwmz = 70 $ | 60 $
 Ghky = 50 $ | 35 $
 Mw3m = 65 $ | 40 $ +
 Qm11 = 65 $ | 40 $ +
